@@ -7,14 +7,14 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
   
 * 🚀  I'm currently working on [NutriMate, an Diet Planning SwiftUI App](http://https://github.com/oxqlion/NutriMate_v1)
   
-* 🧠  I'm learning [SwiftUI]
+* 🧠  I'm learning **SwiftUI**
   
-* 🧑‍💻 All of my projects are available [github]
+* 🧑‍💻  All of my projects are available [github]
 (https://github.com/jhwrwe)
 
-* Ask me about [Laravel, Tailwind CSS, Kotlin]
+* 💬  Ask me about **Laravel, Tailwind CSS, Kotlin**
   
-* ⚡ Fun fact I live by the philosophy of sleeping is optional
+* ⚡  Fun fact I live by the philosophy of sleeping is optional
 
 ---
 
