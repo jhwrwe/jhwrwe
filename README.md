@@ -10,7 +10,7 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
 * 🧠  I'm learning SwiftUI
 
 ---
-### Skills
+Skills
 
 
 <p align="left">
