@@ -14,7 +14,7 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
 
 * 💬  Ask me about **Laravel, Tailwind CSS, Kotlin**
   
-* ⚡  Fun fact I live by the philosophy of sleeping is optional
+* ⚡  Fun fact I live by the philosophy of **sleeping is optional**
 
 ---
 
