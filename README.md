@@ -15,7 +15,7 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
 ### 🤹 Langguage and tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30px"  alt="JavaScript" style="padding-right: 10px; width: 36px;" />
+    <img align= "left" width="30px"  alt="JavaScript" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/>
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30px"  alt="Java" style="padding-right: 10px; width: 36px;" />
