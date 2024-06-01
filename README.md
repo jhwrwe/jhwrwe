@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year college student currently, majoring in informatics. I am very interested in the world of A.I and its application. I am also interested in App development, and Web development.
 
 * ✉️  You can contact me at [jalexander05@student.ciputra.ac.id](mailto:jalexander05@student.ciputra.ac.id)
+  
 * 🚀  I'm currently working on [NutriMate, an Diet Planning SwiftUI App](http://https://github.com/oxqlion/NutriMate_v1)
+  
 * 🧠  I'm learning SwiftUI
 
 ### Skills
