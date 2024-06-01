@@ -52,7 +52,6 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
   </a>
 </p>
 
-
 #
 
 ### Contact me
