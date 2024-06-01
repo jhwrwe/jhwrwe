@@ -51,6 +51,7 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" style="padding-right: 10px; width: 36px;" />
   </a>
 </p>
+</br>
 
 
 
