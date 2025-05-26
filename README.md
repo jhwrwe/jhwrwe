@@ -57,6 +57,20 @@ Hello There 👋, welcome to my profile. My name is Joren, I'm a second-year col
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img align="left" width="30px" alt="Laravel" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img align="left" width="30px" alt="MongoDB" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"/>
+</a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img align="left" width="30px" alt="React (JavaScript)" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img align="left" width="30px" alt="React (TypeScript)" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img align="left" width="30px" alt="Vue.js" style="padding-right: 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"/>
+</a>
+
 </p>
 <br/>
 
